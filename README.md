@@ -72,4 +72,4 @@ Chat Input → Prompt Template → IBM watsonx.ai → Chat Output
 - Integrate with fitness wearables such as smartwatches.
 
 ## Conclusion
--Fitness Buddy demonstrates the use of Agentic AI through IBM Granite and LangFlow to provide personalized fitness guidance. The project showcases how AI can assist users in achieving healthier lifestyles through intelligent recommendations.
+- Fitness Buddy demonstrates the use of Agentic AI through IBM Granite and LangFlow to provide personalized fitness guidance. The project showcases how AI can assist users in achieving healthier lifestyles through intelligent recommendations.
