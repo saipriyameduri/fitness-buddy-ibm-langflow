@@ -4,7 +4,7 @@
 - **Internship:** Edunet Foundation IBM 4-Week Internship
 - **Technology:** LangFlow + IBM watsonx.ai + Meta Llama on IBM Cloud
 
-##Problem Statement
+ ## **Problem Statement**
 - Fitness Buddy 
 The challenge - In today’s fast-paced world, many individuals struggle to maintain a healthy lifestyle due 
 to lack of personalized guidance, time constraints, and inconsistent motivation. Traditional fitness 
@@ -20,13 +20,22 @@ Recommend home workouts and routines based on user input.
 • Suggest simple, nutritious meal ideas. 
 • Encourage habit-building and consistency.
 
+## **Objective
+- Provide personalized fitness recommendations.
+- Generate workout suggestions based on user goals.
+- Offer basic wellness guidance.
+- Demonstrate Agentic AI using IBM Granite and LangFlow.
+
 ## Features
 - 💪 Personalized home workout routines
 - 🥗 Healthy meal and nutrition suggestions
 - 🔥 Daily motivation and fitness inspiration
 - 📅 Habit building and consistency tips
 
-##
+## **Technoogies Used
+- Langflow
+- IBM Granite
+- IBM cloud
 
 ## How to Run
 1. Import `Fitness_Buddy.json` into LangFlow
