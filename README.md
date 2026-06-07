@@ -2,7 +2,7 @@
 
 ## Project Details
 - **Internship:** Edunet Foundation IBM 4-Week Internship
-- **Technology:** LangFlow + IBM watsonx.ai + Meta Llama on IBM Cloud
+- **Technology:** LangFlow + IBM watsonx.ai + IBM granite on IBM cloud
 
  ## Problem Statement
 - Fitness Buddy 
