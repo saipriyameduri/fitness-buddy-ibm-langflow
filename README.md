@@ -63,9 +63,9 @@ Fitness Buddy acts as an AI agent by understanding user goals, processing requir
 - Output1
 - Suggests cardio routine and weekly workout schedule.
 - Input2
-- I am a begginer and want to gain muscle.
+- I am a beginner and want to gain muscle.
 - Output2
-- Begginer strength training plan and protein recomendations.
+- Beginner strength training plan and protein recommendations.
 
 ## Result
 - The system successfully generates personalized fitness recommendations based on user goals using IBM Granite and LangFlow.
