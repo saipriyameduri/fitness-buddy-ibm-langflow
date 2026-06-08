@@ -4,6 +4,16 @@
 - **Internship:** Edunet Foundation IBM 4-Week Internship
 - **Technology:** LangFlow + IBM watsonx.ai + IBM granite on IBM cloud
 
+## Why Fitness Buddy?
+Current fitness apps like Google Fit, MyFitnessPal, and Nike Training Club require:
+- Manual data logging and tracking
+- Expensive premium subscriptions for personalized plans
+- Rigid pre-set workout templates that don't adapt to user input
+- No conversational interface — users can't ask questions naturally
+Fitness Buddy solves this by offering a free, conversational AI coach that responds
+to natural language, remembers context within a session, and gives instant
+personalized guidance without any manual input or subscription.
+
  ## Problem Statement
 - Fitness Buddy 
 The challenge - In today’s fast-paced world, many individuals struggle to maintain a healthy lifestyle due 
@@ -32,7 +42,7 @@ Recommend home workouts and routines based on user input.
 - 🔥 Daily motivation and fitness inspiration
 - 📅 Habit building and consistency tips
 
-## Technoogies Used
+## Technologies Used
 - Langflow
 - IBM Granite
 - IBM cloud
@@ -64,6 +74,15 @@ Fitness Buddy acts as an AI agent by understanding user goals, processing requir
 Chat Input → Prompt Template → IBM watsonx.ai → Chat Output
                     ↑
             Message History (Memory)
+
+## Ethical AI and Responsible Use
+
+- Fitness Buddy is a supportive wellness tool and does not replace professional
+  medical advice, certified trainers, or licensed dieticians.
+- No personal health data is stored or shared — conversations are session-based only.
+- The system avoids making diagnoses or recommending treatments for medical conditions.
+- Users with health conditions are advised to consult a doctor before following
+  any fitness or nutrition suggestions.
 
 ## Future Enhancements
 - Add BMI and calorie calculator for personalized fitness tracking.
